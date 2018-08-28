@@ -1,0 +1,98 @@
+/* set styles for body */
+html, body {
+    height: 100%;
+    background-color: white;
+    padding-top: 50px;
+}
+/* set the style for page-header to green */
+.page-header{
+color: mediumseagreen;}
+
+/* set the style for navbar brand black */
+.navbar-brand{
+background-color: black;
+}
+/* set the style for navbar background to green */
+.navbar{
+background-color: green;
+}
+
+/* Add your styles below with commenst */
+
+img{
+display:block;
+margin:auto;
+}
+
+h1 {
+	color:green;
+	text-align: center;
+}
+ 
+p1 {
+    text-align: center;
+    color: red;
+}
+
+h3 {
+    color: navy;
+    margin-left: 20px;
+}
+
+b1 {
+    color: mediumseagreen;
+    margin-left: 20px;
+}
+
+p2 {
+    text-align: center;
+    color: blue;
+}
+
+h4 {
+    color: black;
+    margin-left: 20px;
+}
+
+h5 {
+    color: green;
+    margin-left: 20px;
+}
+
+h7 {
+    color: green;
+    margin-left: 20px;
+}
+
+table, th, td {
+   
+    margin:auto;   
+    padding: 15px;
+}
+table {
+    border-spacing: 15px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
